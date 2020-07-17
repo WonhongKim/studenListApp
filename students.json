@@ -1,0 +1,22 @@
+[
+  {
+    "type": "student",
+    "firstname": "david",
+    "lastname": "kim"
+  },
+  {
+    "type": "student",
+    "firstname": "john",
+    "lastname": "doe"
+  },
+  {
+    "type": "student",
+    "firstname": "tom",
+    "lastname": "cat"
+  },
+  {
+    "type": "student",
+    "firstname": "jay",
+    "lastname": "lee"
+  }
+]
